@@ -5,7 +5,7 @@
 | Resource:   | Travis CI                                                                                                                                            |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Platform:   | Linux                                                                                                                                                |
-| R CMD check | <a href="https://travis-ci.org/Jfortin1/ComBatHarmonization"><img src="https://travis-ci.org/Jfortin1/ComBatHarmonization.svg?branch=master" alt="Build status"></a> |
+| R CMD check | <a href="https://travis-ci.org/Jfortin1/neuroCombat_Rpackage"><img src="https://travis-ci.org/Jfortin1/neuroCombat_Rpackage.svg?branch=master" alt="Build status"></a> |
 
 ## Table of content
 - [1. Installation](#id-section1)
