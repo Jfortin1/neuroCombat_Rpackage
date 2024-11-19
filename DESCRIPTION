@@ -1,6 +1,6 @@
 Package: neuroCombat
 Title: Harmonization of multi-site imaging data with ComBat
-Version: 1.0.13
+Version: 1.0.14
 Authors@R: 
     person("Jean-Philippe", "Fortin", email = "fortin946@gmail.com", role = c("aut", "cre"))
 Depends: R (>= 3.6.0), 
@@ -17,7 +17,7 @@ Suggests:
     rmarkdown,
     testthat
 Remotes:
-    bioc::BiocParallel,
+    bioc::release/BiocParallel,
     github::Jfortin1/neuroCombatData
 Description: Harmonization of multi-site imaging data with ComBat.
 LazyData: TRUE
